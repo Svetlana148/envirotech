@@ -1,5 +1,6 @@
 @media (min-width: 420px) {
-  .cards__row {
+  .cards__row1,
+  .cards__row2 {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
