@@ -138,7 +138,6 @@ body {
 }
 
 .start__text-up {
-  /* Thank you for your interest in our 10750NAT */
   margin: 0 30px 7px;
   font-family: "Bebas Neue";
   font-style: normal;
@@ -154,7 +153,6 @@ body {
   padding: 16px 30px 17px 30px;
 }
 .start__block-down .start__text-down {
-  /* Certificate III in Marine Habitat Conservation and Restoration Accredited Course. */
   display: inline;
   font-family: "Montserrat";
   font-style: normal;
@@ -170,7 +168,6 @@ body {
 
 .main {
   background: #F5F5F5;
-  padding: 40px 30px 0 40px;
   -webkit-box-flex: 1;
       -ms-flex: 1 1 auto;
           flex: 1 1 auto;
@@ -178,10 +175,11 @@ body {
 
 .main__container {
   width: 540px;
+  margin: 0 auto;
+  padding: 40px 0 0 0;
 }
 
 .main__title {
-  /* What's next? */
   width: 540px;
   margin: 0 0 10px 0;
   font-family: "Montserrat";
@@ -193,14 +191,12 @@ body {
 }
 
 .main__text {
-  /* We will contact you in the near future. */
   width: 540px;
   font-family: "Montserrat";
   font-style: normal;
   font-weight: 500;
   font-size: 18px;
   line-height: 22px;
-  /* identical to box height */
   color: #414042;
 }
 
@@ -266,7 +262,6 @@ body {
 }
 
 .item__img {
-  /* Rectangle 6 */
   width: 60px;
   height: 60px;
   background: #FFFFFF;
@@ -276,7 +271,6 @@ body {
 }
 
 .item__text {
-  /* Explore the Marine Habitat Brochure */
   font-family: "Montserrat";
   font-style: normal;
   font-weight: 500;

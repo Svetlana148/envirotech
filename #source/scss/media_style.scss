@@ -2,7 +2,6 @@
 	.cards__row {
 		align-items: center;
 	}
-
 	.cards__row1,
 	.cards__row2 {
 		flex-direction: column;
@@ -11,7 +10,7 @@
 		margin: 0 0 15px 0;
 	}
 
-// ------------------- footer -----------------
+// --- footer 
 .contact {
 	height: 388px;
 	flex-direction: column;
@@ -20,5 +19,4 @@
 	.contact__text p:last-child {
 		font-size: 11px;
 		}
-
 }
